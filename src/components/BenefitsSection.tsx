@@ -5,12 +5,12 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 const benefits = [
   {
     title: 'Personalized study plans',
-    description: 'Get customized learning paths based on your strengths and areas that need improvement.',
+    description: "We adapt to how you're feeling to provide the right kind of support when you need it most.",
     icon: BookOpen
   },
   {
     title: 'Emotional check-ins',
-    description: 'We adapt to how you're feeling to provide the right kind of support when you need it most.',
+    description: "We adapt to how you're feeling to provide the right kind of support when you need it most.",
     icon: Calendar
   },
   {
